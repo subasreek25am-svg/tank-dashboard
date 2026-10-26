@@ -1,0 +1,3 @@
+Tank1 LOW
+Tank2 NORMAL
+Tank3 HIGH
